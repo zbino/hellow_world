@@ -12,6 +12,8 @@ namespace ConsoleApp1
         {
             Console.WriteLine("输出信息");
             Console.ReadLine();
+
+
         }
     }
 }
